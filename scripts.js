@@ -6,3 +6,5 @@ function erin(really, cool) {
 		return not cool
 	}
 }
+
+console.log("hooogeyyBOOOGEYY")
