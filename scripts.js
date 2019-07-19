@@ -8,3 +8,9 @@ function erin(really, cool) {
 }
 
 console.log("hooogeyyBOOOGEYY")
+
+ if (true) {
+ 	blahahaha	
+ } else {
+ 	mhmmmmm
+ }
